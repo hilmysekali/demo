@@ -1,14 +1,20 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "judul": "Pricelist Laptop",
+        "keterangan": "Terbaru",
+        "file": "pricelist-laptop-01_46_00.doc",
+        "no_urut": "1"
+    },
+    {
+        "judul": "Pricelist PC",
+        "keterangan": "Harga-harga sparepart PC Terbaru",
+        "file": "pricelist-pc-01_45_41.doc",
+        "no_urut": "2"
+    },
+    {
+        "judul": "Pricelist CCTV",
+        "keterangan": "Harga cctv Terbaru",
+        "file": "pricelist-cctv-01_46_26.pdf",
+        "no_urut": "3"
+    }
+]
