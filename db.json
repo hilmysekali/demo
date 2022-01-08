@@ -1,4 +1,5 @@
-data: [
+{
+    data: [
     {
         "judul": "Pricelist Laptop",
         "keterangan": "Terbaru",
@@ -18,3 +19,4 @@ data: [
         "no_urut": "3"
     }
 ]
+}
